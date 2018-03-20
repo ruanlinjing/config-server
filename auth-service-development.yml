@@ -20,7 +20,7 @@ spring:
 # 数据源
   datasource:
       name: test
-      url: jdbc:mysql://liangshanguang.wang:3306/jpa?useUnicode=true&characterEncoding=utf-8
+      url: jdbc:mysql://liangshanguang.wang:3306/auth?useUnicode=true&characterEncoding=utf-8
       username: root
       password: 19921023wr
       type: com.alibaba.druid.pool.DruidDataSource #使用drudi数据源
