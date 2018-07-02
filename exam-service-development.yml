@@ -27,8 +27,8 @@ spring:
   redis:
     database: 2
     host: 101.226.164.132
-    port: 6379
-    password:
+    port: 6699
+    password: QV@lPRnuaKrX$RAvewLtcD0EOD$&ND7*ZOb57eUZB5G&k$^2Eju%l$$8Ta4TPbcj@8S#yTP6h%UGqs7&X!n26PkmYRVFzPo%e0ODNYXh*Kbo##U8H!w!r6ycewdfowL!40qq*9L5G*no7z@rjUZk#AaQAi9ybciZ^C!2fplS7hYxqd9P1Td4hmAFZVR^#BLgNXK0v0rimP3P%7rPMoNFb@L%fVXHE^kvxIkBgHUAAG8Yb9NqMMJ0oofXj0qlR2QmV0na*gs@x*#IOplLs4@Eq%nvS*DI3c4lFd9g*OS9T
     pool:
       max-active: 1000
       max-wait: 1000
